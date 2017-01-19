@@ -1,0 +1,20 @@
+[package]
+name = "euler-rs"
+version = "0.1.0"
+authors = ["haze <admin@Haze.pw>"]
+
+[[bin]]
+name = "euler-rs-p1"
+path = "src/euler_one.rs"
+
+[[bin]]
+name = "euler-rs-p2"
+path = "src/euler_two.rs"
+
+[[bin]]
+name = "euler-rs-p3"
+path = "src/euler_three.rs"
+
+[[bin]]
+name = "euler-rs-p4"
+path = "src/euler_four.rs"

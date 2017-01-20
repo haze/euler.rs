@@ -18,3 +18,11 @@ path = "src/euler_three.rs"
 [[bin]]
 name = "euler-rs-p4"
 path = "src/euler_four.rs"
+
+[[bin]]
+name = "euler-rs-p5"
+path = "src/euler_five.rs"
+
+[[bin]]
+name = "euler-rs-p6"
+path = "src/euler_six.rs"

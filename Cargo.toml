@@ -26,3 +26,6 @@ path = "src/euler_five.rs"
 [[bin]]
 name = "euler-rs-p6"
 path = "src/euler_six.rs"
+[[bin]]
+name = "euler-rs-p7"
+path = "src/euler_seven.rs"
